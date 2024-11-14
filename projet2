@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu de Délices Gourmands</title>
+</head>
+
+<body>
+    <h1>Menu de Délices Gourmands</h1>
+
+    <!-- Section Apéritifs -->
+    <h2>Apéritifs</h2>
+    <ul>
+        <li>
+            <strong>Salade Caprese</strong> : Tomates fraîches, mozzarella et basilic arrosés d'un glaçage balsamique.
+        </li>
+        <li>
+            <strong>Bruschetta</strong> : Pain grillé garni de tomates hachées, ail et basilic frais.
+        </li>
+        <li>
+            <strong>Gougères</strong> : Petits choux au fromage servis chauds.
+        </li>
+        <li>
+            <strong>Crostini au Prosciutto</strong> : Crostini croustillants garnis de prosciutto et de fromage de chèvre.
+        </li>
+        <li>
+            <strong>Soupe Miso</strong> : Bouillon de miso chaud avec des algues, tofu et oignons verts.
+        </li>
+    </ul>
+
+    <!-- Section Plats Principaux -->
+    <h2>Plats principaux</h2>
+    <ul>
+        <li>
+            <strong>Saumon grillé</strong> : Filet de saumon assaisonné et grillé à la perfection, servi avec une sauce au beurre citronné.
+        </li>
+        <li>
+            <strong>Poulet au citron</strong> : Blanc de poulet mariné, rôti et servi avec des légumes de saison.
+        </li>
+        <li>
+            <strong>Pâtes Primavera</strong> : Pâtes fraîches avec des légumes de saison et une sauce légère à l'ail.
+        </li>
+        <li>
+            <strong>Risotto aux champignons</strong> : Riz crémeux aux champignons et parmesan, parfumé à l'huile de truffe.
+        </li>
+        <li>
+            <strong>Boeuf Bourguignon</strong> : Ragout de boeuf mijoté au vin rouge avec des carottes et des oignons perlés.
+        </li>
+    </ul>
+
+    <!-- Section Desserts -->
+    <h2>Desserts</h2>
+    <ul>
+        <li>
+            <strong>Fondue au chocolat</strong> : Assortiment de fruits et de guimauves servis avec une riche fondue au chocolat.
+        </li>
+        <li>
+            <strong>Tarte Tatin</strong> : Tarte aux pommes caramélisées servie tiède avec de la crème fraîche.
+        </li>
+        <li>
+            <strong>Mousse au chocolat</strong> : Mousse légère et aérienne au chocolat noir, garnie de crème fouettée.
+        </li>
+        <li>
+            <strong>Panna Cotta à la Vanille</strong> : Dessert italien crémeux à la vanille avec un coulis de fruits rouges.
+        </li>
+        <li>
+            <strong>Crème brûlée</strong> : Crème parfumée à la vanille avec une croûte de caramel croustillant.
+        </li>
+    </ul>
+
+    <!-- Lien de contact -->
+    <p><a href="contact.html">Contactez-nous pour les réservations</a></p>
+</body>
+
+</html>
